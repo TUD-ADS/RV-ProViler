@@ -50,9 +50,13 @@ spike:
 gcc:
 >
 >git clone https://github.com/riscv-collab/riscv-gnu-toolchain
+
 >cd riscv-gnu-toolchain
+
 >./configure --prefix=$RISCV --with-arch=rv32imav_zifencei --with-abi=ilp32 --enable-multilib
-># In makefile set INSTALL_DIR := /opt/riscv
+
+>In makefile set INSTALL_DIR := /opt/riscv
+
 >sudo make
 
 pk:
