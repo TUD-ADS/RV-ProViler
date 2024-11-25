@@ -1,0 +1,17 @@
+Instruction,Instruction Call Frequency
+bgez,214
+srai,4694
+j,62603
+sub,250080
+mul,282480
+li,412169
+bge,415799
+lui,552936
+sw,738882
+addi,900532
+mv,1393975
+slli,2677830
+add,3363030
+lw,3858677
+
+Total Instruction Calls,14913901

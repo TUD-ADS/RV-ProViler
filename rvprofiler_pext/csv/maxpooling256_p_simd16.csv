@@ -1,0 +1,12 @@
+Instruction,Instruction Call Frequency
+li,1
+lui,7
+mv,128
+sw,65536
+bne,82048
+add,82176
+addi,180612
+smax16,262144
+lw,262145
+
+Total Instruction Calls,934797

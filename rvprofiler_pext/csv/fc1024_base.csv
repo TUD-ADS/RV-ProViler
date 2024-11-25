@@ -1,0 +1,16 @@
+Instruction,Instruction Call Frequency
+lui,5
+blez,1024
+srai,1024
+slli,1024
+sw,1024
+mv,2048
+li,2050
+lh,1048576
+mul,1048576
+lw,1048576
+bne,1049600
+addi,1050630
+add,2098176
+
+Total Instruction Calls,7352333

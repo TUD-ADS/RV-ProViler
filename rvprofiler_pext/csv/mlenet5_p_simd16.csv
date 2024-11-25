@@ -1,0 +1,20 @@
+Instruction,Instruction Call Frequency
+max,214
+mul,420
+smax16,2240
+sh,4694
+srai,8150
+j,42491
+kmada,149460
+sub,185520
+bge,236675
+li,237095
+lui,291616
+addi,485240
+mv,766848
+sw,1146398
+slli,1445860
+add,1565186
+lw,2800175
+
+Total Instruction Calls,9368282

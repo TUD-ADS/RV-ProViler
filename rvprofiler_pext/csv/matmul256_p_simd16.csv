@@ -1,0 +1,14 @@
+Instruction,Instruction Call Frequency
+lui,3
+srai,65536
+sh,65536
+li,65794
+mv,131328
+add,131328
+slli,131584
+kmada,8388608
+bne,8454400
+lw,16777216
+addi,16908805
+
+Total Instruction Calls,51120138

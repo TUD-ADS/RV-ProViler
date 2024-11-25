@@ -1,0 +1,17 @@
+Instruction,Instruction Call Frequency
+lui,7
+slli,257
+sub,16384
+vse16.v,16384
+bge,16384
+vmv.v.x,16384
+vsetvli,16385
+li,16388
+bne,16512
+mv,16512
+vle16.v,65536
+vmax.vv,65536
+addi,65924
+add,98432
+
+Total Instruction Calls,427025
