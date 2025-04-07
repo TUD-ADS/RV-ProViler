@@ -1,0 +1,28 @@
+Instruction,Instruction Call Frequency
+vmv.v.i,1
+bnez,6
+lui,18
+bge,176
+vse16.v,176
+vmv.v.x,176
+not,214
+and,214
+vmax.vv,704
+sh,4694
+vredsum.vs,4694
+vmv1r.v,4694
+vmv.x.s,4694
+mv,7808
+srai,9388
+li,11012
+bne,11230
+addi,17291
+bgtz,43610
+vmacc.vv,43610
+sub,43786
+slli,48509
+vsetvli,53601
+vle16.v,87924
+add,100227
+
+Total Instruction Calls,498457
